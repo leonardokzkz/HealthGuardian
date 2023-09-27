@@ -7,6 +7,7 @@ Esta é uma aplicação web simples para o gerenciamento de dados médicos pesso
 - Armazenamento de dados médicos pessoais.
 - Exibição centralizada de informações em uma página web.
 - Estilo visual atraente com fundo azul escuro e fonte profissional.
+- Gerador de QRCode.
 
 ## Uso
 
@@ -17,6 +18,8 @@ Esta é uma aplicação web simples para o gerenciamento de dados médicos pesso
 3. Abra o arquivo `index.html` em um navegador da web para visualizar os dados médicos.
 
 4. Você pode acessar a página da web em dispositivos compatíveis para visualizar e compartilhar os dados médicos quando necessário
+
+5. Instalar composer e biblioteca gerador de QRCode.
 
 ## Personalização
 
